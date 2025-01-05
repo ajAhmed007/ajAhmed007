@@ -3,6 +3,18 @@
 
 ---
 
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/ahmedabdullahi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ajahmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="500"/>
 </p>
@@ -125,21 +137,4 @@ Seattle, WA
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajahmed007&" alt="GitHub Streak" />
 </p>
 
----
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/ahmedabdullahi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ajahmed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 🌟 Fun Animation:
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Code Animation" width="600"/>
-</p>
