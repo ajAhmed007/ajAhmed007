@@ -120,14 +120,4 @@ Seattle, WA
   <!-- Add additional tools as needed -->
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajahmed007&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajahmed007&" alt="GitHub Streak" />
-</p>
-
 
