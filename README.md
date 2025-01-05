@@ -15,12 +15,9 @@
 
 ---
 
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);" />
-</div>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding Animation" width="500" />
+</p>
 
 ---
 
