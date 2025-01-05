@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full-Stack Developer | 🚀 Lifelong Learner | 🌟 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/Ia9E3Ub.jpeg" alt="Coding Meme" width="600" />
+  <img src="https://i.imgur.com/J8bWFrE.jpeg" alt="Cool Coding Meme" width="600" />
 </p>
 
 ---
