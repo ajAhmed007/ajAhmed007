@@ -23,15 +23,6 @@
 
 ---
 
-### 🌟 About Me:
-- 🌱 Currently exploring **React, TypeScript, and Node.js**  
-- 💬 Feel free to ask me about **Java, Spring, and SQL**  
-- 🎯 Passionate about building **scalable and impactful applications**  
-- 🛠 Continuously learning and improving my tech stack  
-
----
-# 👨‍💻 Ahmed Abdullahi - Full-Stack Software Engineer
-
 ### 🛠️ Skills
 
 #### **Programming Languages**
