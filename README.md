@@ -21,70 +21,82 @@
 
 ---
 
-### 🛠️ Skills
+<h2 align="center">🛠️ Skills</h2>
 
-#### **Programming Languages**
-- **Java**, **TypeScript**, **C#**, **Python**
-
-#### **Frontend Development**
-- **React**, **HTML5**, **CSS**, **Tailwind CSS**, **Material-UI**, **Figma**
-
-#### **Backend Development**
-- **Spring Boot**, **Node.js**, **.NET Framework**
-- **RESTful APIs**, **GraphQL**, **OAuth**, **JWT**
-- **PostgreSQL**
-
-#### **DevOps & Tools**
-- **Docker**, **AWS (EC2, S3, RDS, Lambda)**  
-- **Git**, **CI/CD Pipelines (Jenkins, GitHub Actions)**
-
----
-
-### 💼 Work Experience
-
-#### **Full-Stack Software Engineer**  
-**CoStar Group** *(May 2023 – Present)*  
-- Built **intuitive and responsive user interfaces** using **React**, **TypeScript**, and **GraphQL**, enabling streamlined business dashboards and configuration tools for financial services workflows.  
-- Translated **Figma designs** into reusable component libraries, improving **UI/UX consistency** across multiple teams and projects.  
-- Collaborated with product managers to **optimize user workflows**, minimizing friction for both internal and external stakeholders.  
-- Developed and deployed scalable **C#/ .NET microservices**, handling **high-volume requests** and ensuring robust backend architecture.  
-- Designed, developed, and consumed **RESTful and GraphQL APIs** to enable seamless data exchange between frontend and backend systems.  
+<div align="center">
+  <h4><b>Programming Languages</b></h4>
+  <p>Java, TypeScript, C#, Python</p>
+  
+  <h4><b>Frontend Development</b></h4>
+  <p>React, HTML5, CSS, Tailwind CSS, Material-UI, Figma</p>
+  
+  <h4><b>Backend Development</b></h4>
+  <p>Spring Boot, Node.js, .NET Framework, RESTful APIs, GraphQL, OAuth, JWT, PostgreSQL</p>
+  
+  <h4><b>DevOps & Tools</b></h4>
+  <p>Docker, AWS (EC2, S3, RDS, Lambda), Git, CI/CD Pipelines (Jenkins, GitHub Actions)</p>
+</div>
 
 ---
 
-#### **Software Engineer Intern**  
-**Target** *(June 2023 – September 2023)*  
-- Enhanced **RFID, asset protection**, and **price change applications**, leading to **100% workflow optimization** for store operations.  
-- Boosted **Front of Stores application performance by 50%** through **data-driven optimizations** and collaboration with business stakeholders.  
-- Followed **agile methodologies** and integrated **CI/CD pipelines** (Vela/GitHub Actions), reducing deployment time and streamlining product releases.
+<h2 align="center">💼 Work Experience</h2>
+
+<div align="center">
+  <h3><b>Full-Stack Software Engineer</b></h3>
+  <p><i>CoStar Group</i> (May 2023 – Present)</p>
+  <ul align="center">
+    <li>Built <b>intuitive and responsive user interfaces</b> using React, TypeScript, and GraphQL, enabling streamlined business dashboards and configuration tools for financial services workflows.</li>
+    <li>Translated <b>Figma designs</b> into reusable component libraries, improving UI/UX consistency across multiple teams and projects.</li>
+    <li>Collaborated with product managers to <b>optimize user workflows</b>, minimizing friction for both internal and external stakeholders.</li>
+    <li>Developed and deployed scalable <b>C#/ .NET microservices</b>, handling high-volume requests and ensuring robust backend architecture.</li>
+    <li>Designed, developed, and consumed <b>RESTful and GraphQL APIs</b> to enable seamless data exchange between frontend and backend systems.</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3><b>Software Engineer Intern</b></h3>
+  <p><i>Target</i> (June 2023 – September 2023)</p>
+  <ul align="center">
+    <li>Enhanced <b>RFID, asset protection, and price change applications</b>, leading to 100% workflow optimization for store operations.</li>
+    <li>Boosted <b>Front of Stores application performance by 50%</b> through data-driven optimizations and collaboration with business stakeholders.</li>
+    <li>Followed <b>agile methodologies</b> and integrated <b>CI/CD pipelines</b> (Vela/GitHub Actions), reducing deployment time and streamlining product releases.</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3><b>Software Engineer Intern</b></h3>
+  <p><i>CquestIP</i> (June 2022 – September 2022)</p>
+  <ul align="center">
+    <li>Built server-side applications using <b>Java, Spring Boot, and PostgreSQL</b>, improving overall system efficiency.</li>
+    <li>Collaborated with senior engineers to architect <b>middle-tier solutions</b> and develop detailed <b>requirement specifications</b>, improving project delivery by 20%.</li>
+    <li>Implemented <b>A/B testing</b> and feedback loops, resulting in 30% improved system stability.</li>
+  </ul>
+</div>
+
+<div align="center">
+  <h3><b>Data Analyst Intern</b></h3>
+  <p><i>Sunergy Systems</i> (June 2019 – June 2019)</p>
+  <ul align="center">
+    <li>Ensured data integrity by maintaining records, tabulating data, and creating customer databases.</li>
+    <li>Provided email and phone support, showcasing <b>strong communication</b> and attention to detail.</li>
+  </ul>
+</div>
 
 ---
 
-#### **Software Engineer Intern**  
-**CquestIP** *(June 2022 – September 2022)*  
-- Built server-side applications using **Java**, **Spring Boot**, and **PostgreSQL**, improving overall system efficiency.  
-- Collaborated with senior engineers to architect **middle-tier solutions** and develop detailed **requirement specifications**, improving project delivery by 20%.  
-- Implemented **A/B testing** and feedback loops, resulting in **30% improved system stability**.  
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+  <p><b>University of Washington</b> (September 2020 – March 2023)</p>
+  <p><i>Bachelor of Science in Computer Science</i></p>
+  <p>Seattle, WA</p>
+</div>
 
 ---
 
-#### **Data Analyst Intern**  
-**Sunergy Systems** *(June 2019 – June 2019)*  
-- Ensured data integrity by maintaining records, tabulating data, and creating customer databases.  
-- Provided email and phone support, showcasing **strong communication** and attention to detail.  
+<h2 align="center">⚙️ Technologies & Tools</h2>
 
----
-
-### 🎓 Education
-
-**University of Washington** *(September 2020 – March 2023)*  
-**Bachelor of Science in Computer Science**  
-Seattle, WA  
-
----
-
-### ⚙️ Technologies & Tools:
-<p align="left">
+<div align="center">
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
@@ -115,7 +127,7 @@ Seattle, WA
   <a href="https://docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
-  <!-- Add additional tools as needed -->
-</p>
+</div>
+
 
 
