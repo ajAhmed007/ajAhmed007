@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdullahi</h1>
 <h3 align="center">A Passionate Full-Stack Developer 🚀</h3>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+Problem+Solver;Lifelong+Learner+%7C+Tech+Enthusiast;" alt="Typing Animation" />
-</p>
-
 ---
 
 <p align="center">
