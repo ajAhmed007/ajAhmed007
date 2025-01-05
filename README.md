@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdullahi</h1>
-<h3 align="center">A Passionate Full-Stack Developer 🚀</h3>
+<h3 align="center">A Full-Stack Developer 🚀</h3>
 
 ---
 
@@ -16,16 +16,67 @@
 - 🛠 Continuously learning and improving my tech stack  
 
 ---
+# 👨‍💻 Ahmed Abdullahi - Full-Stack Software Engineer
 
-### 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/ahmedabdullahi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ajahmed" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+### 🛠️ Skills
+
+#### **Programming Languages**
+- **Java**, **TypeScript**, **C#**, **Python**
+
+#### **Frontend Development**
+- **React**, **HTML5**, **CSS**, **Tailwind CSS**, **Material-UI**, **Figma**
+
+#### **Backend Development**
+- **Spring Boot**, **Node.js**, **.NET Framework**
+- **RESTful APIs**, **GraphQL**, **OAuth**, **JWT**
+- **PostgreSQL**
+
+#### **DevOps & Tools**
+- **Docker**, **AWS (EC2, S3, RDS, Lambda)**  
+- **Git**, **CI/CD Pipelines (Jenkins, GitHub Actions)**
+
+---
+
+### 💼 Work Experience
+
+#### **Full-Stack Software Engineer**  
+**CoStar Group** *(May 2023 – Present)*  
+- Built **intuitive and responsive user interfaces** using **React**, **TypeScript**, and **GraphQL**, enabling streamlined business dashboards and configuration tools for financial services workflows.  
+- Translated **Figma designs** into reusable component libraries, improving **UI/UX consistency** across multiple teams and projects.  
+- Collaborated with product managers to **optimize user workflows**, minimizing friction for both internal and external stakeholders.  
+- Developed and deployed scalable **C#/ .NET microservices**, handling **high-volume requests** and ensuring robust backend architecture.  
+- Designed, developed, and consumed **RESTful and GraphQL APIs** to enable seamless data exchange between frontend and backend systems.  
+
+---
+
+#### **Software Engineer Intern**  
+**Target** *(June 2023 – September 2023)*  
+- Enhanced **RFID, asset protection**, and **price change applications**, leading to **100% workflow optimization** for store operations.  
+- Boosted **Front of Stores application performance by 50%** through **data-driven optimizations** and collaboration with business stakeholders.  
+- Followed **agile methodologies** and integrated **CI/CD pipelines** (Vela/GitHub Actions), reducing deployment time and streamlining product releases.
+
+---
+
+#### **Software Engineer Intern**  
+**CquestIP** *(June 2022 – September 2022)*  
+- Built server-side applications using **Java**, **Spring Boot**, and **PostgreSQL**, improving overall system efficiency.  
+- Collaborated with senior engineers to architect **middle-tier solutions** and develop detailed **requirement specifications**, improving project delivery by 20%.  
+- Implemented **A/B testing** and feedback loops, resulting in **30% improved system stability**.  
+
+---
+
+#### **Data Analyst Intern**  
+**Sunergy Systems** *(June 2019 – June 2019)*  
+- Ensured data integrity by maintaining records, tabulating data, and creating customer databases.  
+- Provided email and phone support, showcasing **strong communication** and attention to detail.  
+
+---
+
+### 🎓 Education
+
+**University of Washington** *(September 2020 – March 2023)*  
+**Bachelor of Science in Computer Science**  
+Seattle, WA  
 
 ---
 
@@ -66,12 +117,24 @@
 
 ---
 
-### 📊 GitHub Stats:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajahmed007&show_icons=true&locale=en&layout=compact" alt="ajahmed007" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajahmed007&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajahmed007&" alt="ajahmed007" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajahmed007&" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌐 Connect with Me:
+<p align="left">
+  <a href="https://linkedin.com/in/ahmedabdullahi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ajahmed" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
 ---
