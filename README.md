@@ -32,10 +32,10 @@
 
 <h1 align="center">💼 Work Experience</h1>
 
-<div align="center">
+<div>
   <h3><b>Full-Stack Software Engineer</b></h3>
   <p><i>CoStar Group</i> (May 2023 – Present)</p>
-  <ul align="left">
+  <ul>
     <li>Designed and built <b>intuitive user interfaces</b> with React, TypeScript, and GraphQL for business dashboards and configuration tools.</li>
     <li>Developed <b>reusable component libraries</b> from Figma designs, creating consistent UI/UX standards across teams.</li>
     <li>Collaborated with product managers to <b>streamline user workflows</b> for financial stakeholders.</li>
@@ -44,30 +44,30 @@
   </ul>
 </div>
 
-<div align="center">
+<div>
   <h3><b>Software Engineer Intern</b></h3>
   <p><i>Target</i> (June 2023 – September 2023)</p>
-  <ul align="left">
+  <ul>
     <li>Optimized <b>RFID, asset protection, and price change applications</b>, leading to <b>100% workflow improvement</b>.</li>
     <li>Boosted <b>Front of Stores application performance by 50%</b> through data-driven optimization strategies.</li>
     <li>Followed <b>agile methodologies</b> and implemented <b>CI/CD pipelines</b> (Vela/GitHub Actions) to streamline deployments.</li>
   </ul>
 </div>
 
-<div align="center">
+<div>
   <h3><b>Software Engineer Intern</b></h3>
   <p><i>CquestIP</i> (June 2022 – September 2022)</p>
-  <ul align="left">
+  <ul>
     <li>Built server-side applications using <b>Java, Spring Boot, and PostgreSQL</b>, improving system efficiency.</li>
     <li>Developed <b>middle-tier architectures</b> in collaboration with senior engineers, improving project delivery timelines.</li>
     <li>Implemented <b>A/B testing</b> and feedback loops, achieving <b>30% system stability improvement</b>.</li>
   </ul>
 </div>
 
-<div align="center">
+<div>
   <h3><b>Data Analyst Intern</b></h3>
   <p><i>Sunergy Systems</i> (June 2019 – June 2019)</p>
-  <ul align="left">
+  <ul>
     <li>Maintained data integrity through effective record-keeping and database creation.</li>
     <li>Provided email and phone support, demonstrating excellent communication skills.</li>
   </ul>
