@@ -7,7 +7,7 @@
 
 ---
 
-<h2 align="center">🛠️ Skills & Expertise</h2>
+<h2 align="left">🛠️ Skills & Expertise</h2>
 
 <table align="center">
   <tr>
