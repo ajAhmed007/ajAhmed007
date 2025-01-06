@@ -7,30 +7,30 @@
 
 ---
 
-<h2 align="left">🛠️ Skills & Expertise</h2>
+<h2>🛠️ Skills & Expertise</h2>
 
-<table align="center">
+<table>
   <tr>
-    <td align="center"><b>Programming Languages</b></td>
-    <td align="center">Java, TypeScript, C#, Python</td>
+    <td><b>Programming Languages</b></td>
+    <td>Java, TypeScript, C#, Python</td>
   </tr>
   <tr>
-    <td align="center"><b>Frontend Development</b></td>
-    <td align="center">React, HTML5, CSS, Tailwind CSS, Material-UI, Figma</td>
+    <td><b>Frontend Development</b></td>
+    <td>React, HTML5, CSS, Tailwind CSS, Material-UI, Figma</td>
   </tr>
   <tr>
-    <td align="center"><b>Backend Development</b></td>
-    <td align="center">Spring Boot, Node.js, .NET Framework, RESTful APIs, GraphQL, OAuth, JWT, PostgreSQL</td>
+    <td><b>Backend Development</b></td>
+    <td>Spring Boot, Node.js, .NET Framework, RESTful APIs, GraphQL, OAuth, JWT, PostgreSQL</td>
   </tr>
   <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
-    <td align="center">Docker, AWS (EC2, S3, RDS, Lambda), Git, CI/CD Pipelines (Jenkins, GitHub Actions)</td>
+    <td><b>DevOps & Tools</b></td>
+    <td>Docker, AWS (EC2, S3, RDS, Lambda), Git, CI/CD Pipelines (Jenkins, GitHub Actions)</td>
   </tr>
 </table>
 
 ---
 
-<h1 align="center">💼 Work Experience</h1>
+<h2>💼 Work Experience</h2>
 
 <div>
   <h3><b>Full-Stack Software Engineer</b></h3>
@@ -75,9 +75,9 @@
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+<h2>🎓 Education</h2>
 
-<p align="center">
+<p>
   <b>University of Washington</b> (September 2020 – March 2023) <br>
   <i>Bachelor of Science in Computer Science</i> <br>
   Seattle, WA
@@ -85,9 +85,9 @@
 
 ---
 
-<h2 align="center">⚙️ Technologies & Tools</h2>
+<h2>⚙️ Technologies & Tools</h2>
 
-<p align="center">
+<p>
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
   </a>
@@ -119,3 +119,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
   </a>
 </p>
+
